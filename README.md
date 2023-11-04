@@ -8,4 +8,3 @@ Feel free to fork, clone, or modify it for your own learning purposes.
 
 Enjoy exploring the world of web development with YouTube Demo!
 
-P.S. - This is cloned from my another github account.
